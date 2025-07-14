@@ -33,7 +33,23 @@
 
   ## Modifications
 
-  * Let us modify our Infrastructure
+  * Let us modify our Infrastructure, this is the initial instance type
+    <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/45dcd3a3-818a-4abd-89e1-f8fcb096d02f" />
+
+  * Make changes, and apply changes
+    <img width="1441" height="724" alt="image" src="https://github.com/user-attachments/assets/5b3e609d-6d38-4dab-a5bd-bed0e4f6ad91" />
+
+    <img width="1446" height="431" alt="image" src="https://github.com/user-attachments/assets/92166d4c-925c-4039-9acd-f45670b8d02f" />
+
+  * Note changes have been made
+    <img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/bd905f47-2f9e-4145-a136-9370fd96cb2f" />
+
+
+    
+
+
+
+    
  
 
   
