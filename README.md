@@ -23,7 +23,18 @@
   ```
   ![image](https://github.com/user-attachments/assets/3953ea85-b252-4f21-aaec-ebbb521fb520)
 
-  ## AMI Creation
+  <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/a46542ef-f07d-486f-b3e5-a962f7ff7efc" />
+
+* Observe that the ec2 has been created and check on the aws instance console for the effect
+
+  <img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/f4d4b775-59f8-4e71-a719-59811578a73e" />
+
+
+
+  ## Modifications
+
+  * Let us modify our Infrastructure
+ 
 
   
 
