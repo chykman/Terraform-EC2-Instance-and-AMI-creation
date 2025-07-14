@@ -44,6 +44,20 @@
   * Note changes have been made
     <img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/bd905f47-2f9e-4145-a136-9370fd96cb2f" />
 
+  * Since we are done we can destroy it
+    <img width="1538" height="818" alt="image" src="https://github.com/user-attachments/assets/d04c7c56-e8c8-4b52-b2f4-7fe797009d47" />
+
+    <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/221e6284-5b18-4648-ac26-3c642c19a476" />
+
+ * It has been destroyed
+   <img width="1267" height="753" alt="image" src="https://github.com/user-attachments/assets/6be9bd20-cb8c-4204-b5b7-25169a8ded27" />
+
+   <img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/3492de4f-a726-4185-9f0b-ab5d7aa7fc72" />
+
+
+
+
+
 
     
 
